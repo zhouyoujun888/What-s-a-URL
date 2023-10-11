@@ -7,7 +7,7 @@
 ### 什么是域名和IP地址
 1.什么是域名 （举例说明：https://www.baidu.com：443/img=xxx）  
 - https://是协议   
-- www.baidu.com 是域名
+- www.baidu.com 是域名 
 - ：443 是端口号
 - /img=xxx 是参数
  
